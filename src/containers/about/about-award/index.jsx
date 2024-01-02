@@ -9,6 +9,7 @@ const AboutAward = () => {
                     <div className="col-lg-12" data-aos="fade-up">
                         <h2 className="title">{AboutData[5].title}</h2>
                     </div>
+                    
                 </div>
                 <div className="row">
                     <div className="col-lg-12">
